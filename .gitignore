@@ -1,3 +1,4 @@
+
 # project files and folders to ignore
 node_modules
 _dev
@@ -9,3 +10,4 @@ config-*.js
 # other stuff to ignore
 .DS_Store
 Thumbs.db
+
