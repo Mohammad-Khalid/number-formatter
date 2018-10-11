@@ -1,0 +1,21 @@
+{
+  "name": "@khalid0807/number-formatter",
+  "version": "1.0.0",
+  "description": "formatting number in nice way",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "khalid",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8.10.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
