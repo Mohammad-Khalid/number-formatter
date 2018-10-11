@@ -1,4 +1,6 @@
-Number Formatter
+Number Formatter  [![Build Status](https://travis-ci.org/Mohammad-Khalid/number-formatter.svg?branch=master)](https://travis-ci.org/Mohammad-Khalid/number-formatter)
+
+[![Coverage Status](https://coveralls.io/repos/github/Mohammad-Khalid/number-formatter/badge.svg)](https://coveralls.io/github/Mohammad-Khalid/number-formatter)
 =========
 
 A small library that adds commas to numbers
@@ -25,6 +27,3 @@ A small library that adds commas to numbers
 
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
 
-[![Build Status](https://travis-ci.org/Mohammad-Khalid/number-formatter.svg?branch=master)](https://travis-ci.org/Mohammad-Khalid/number-formatter)
-
-[![Coverage Status](https://coveralls.io/repos/github/Mohammad-Khalid/number-formatter/badge.svg)](https://coveralls.io/github/Mohammad-Khalid/number-formatter)
