@@ -1,6 +1,6 @@
-Number Formatter  [![Build Status](https://travis-ci.org/Mohammad-Khalid/number-formatter.svg?branch=master)](https://travis-ci.org/Mohammad-Khalid/number-formatter)
-
-[![Coverage Status](https://coveralls.io/repos/github/Mohammad-Khalid/number-formatter/badge.svg)](https://coveralls.io/github/Mohammad-Khalid/number-formatter)
+[![Build Status](https://travis-ci.org/Mohammad-Khalid/number-formatter.svg?branch=master)](https://travis-ci.org/Mohammad-Khalid/number-formatter) [![Coverage Status](https://coveralls.io/repos/github/Mohammad-Khalid/number-formatter/badge.svg)](https://coveralls.io/github/Mohammad-Khalid/number-formatter)
+=========
+Number Formatter  
 =========
 
 A small library that adds commas to numbers
